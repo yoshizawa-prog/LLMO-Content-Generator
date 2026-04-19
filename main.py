@@ -1,4 +1,3 @@
-!pip install google-genai
 from google import genai
 from IPython.display import display, Markdown
 
